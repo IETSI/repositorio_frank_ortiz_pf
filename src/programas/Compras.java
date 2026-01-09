@@ -12,7 +12,7 @@ public class Compras {
     public static void main(String[] args) {
 
         // Datos del cliente
-        String nombreCliente = "Carlos";
+        String nombreCliente = "FRANK";
 
         // Compras realizadas
         double compra1 = 100.0;
